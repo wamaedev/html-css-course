@@ -1,0 +1,14 @@
+/* .paragraph{
+  width: 200px;
+}
+
+.button1,.button2,.paragraph{
+  display: inline-block;
+  vertical-align: middle;
+} */
+
+p{
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+}
