@@ -1,23 +1,25 @@
-.YouTube{
-  background-color: gray;
-  width: 400px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-right: 10px;
-  padding-left: 10px;
-}
-
 p{
   font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.YouTube{
+  background-color: rgb(33, 33, 33);
+  width: 360px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 15px;
+  padding-left: 15px;
 }
 
 .title{
   color: white;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 24px;
+  margin-top: 10px;
 }
 
 .description{
- color: rgb(75, 71, 71);
- width: 360px;
+ color: rgb(160, 160, 160);
 }
