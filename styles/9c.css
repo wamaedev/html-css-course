@@ -1,14 +1,22 @@
-/* .card{
+.title{
   font-family: Arial;
-  border: solid;
-  width: 300px;
-  border-width: 1px;
-  padding-bottom: 10px;
-  padding-right: 15px;
-  padding-left: 15px;
-} */
+}
 
-.title { 
+
+.card{
+  width: 300px;
+  border-color: rgb(150, 150, 150);
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
+
+
+
+
+
+/* .title { 
   font-family: Arial;
  } 
 .card{ 
@@ -18,4 +26,4 @@
   border-width: 1px; 
   padding-bottom: 20px; 
   padding-left: 15px; 
-}
+} */
