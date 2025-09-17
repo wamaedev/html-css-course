@@ -30,7 +30,8 @@ p {
 } */
 
 .name {
-  font-weight: bold
+  font-weight: bold;
+  margin-bottom: 3px;
 }
 /* .name {
   font-weight: bold;
@@ -39,7 +40,7 @@ p {
 
 .handle {
   color: gray;
-  font-size: 17px;
+  margin-bottom: 5px;
 }
 /* .handle {
   color: rgb(150, 150, 150);
@@ -48,6 +49,7 @@ p {
 
 .category {
   color: gray;
+  font-size: 14px;
 }
 /* .category {
   color: rgb(150, 150, 150);
